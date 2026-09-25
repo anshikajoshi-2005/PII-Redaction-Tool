@@ -1,0 +1,9226 @@
+[
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 11
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 23
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "start": 44,
+    "end": 84,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 24
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "start": 316,
+    "end": 356,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 24
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Private Limited",
+    "start": 362,
+    "end": 395,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 24
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Limited",
+    "start": 1529,
+    "end": 1554,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 24
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "Registered Office: 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India;",
+    "start": 0,
+    "end": 116,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 26
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "Corporate Office: 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India;",
+    "start": 0,
+    "end": 118,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 27
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 16,
+    "end": 33,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 28
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 8,
+    "end": 39,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 29
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Limited",
+    "start": 129,
+    "end": 154,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 48
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "Registered Office at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India and its Corporate Office at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India.",
+    "start": 241,
+    "end": 487,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 48
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 44,
+    "end": 63,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 65,
+    "end": 83,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 106,
+    "end": 129,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 131,
+    "end": 151,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 153,
+    "end": 172,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 174,
+    "end": 192,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 194,
+    "end": 216,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 218,
+    "end": 243,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 166
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 31,
+    "end": 52,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 225
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 54,
+    "end": 73,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 225
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 75,
+    "end": 93,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 225
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sandesh Bhagwat",
+    "start": 30,
+    "end": 45,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 226
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Amod Joshi",
+    "start": 52,
+    "end": 62,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 226
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 69,
+    "end": 86,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 226
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 30,
+    "end": 40,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 262
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 28,
+    "end": 38,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 267
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 30,
+    "end": 40,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 276
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 28,
+    "end": 38,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 282
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Secondary Transfer of",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 287
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Bijlee Limited",
+    "start": 68,
+    "end": 82,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Industrial Solutions Limited",
+    "start": 97,
+    "end": 125,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Emirates Transformer & Switchgear Limited",
+    "start": 127,
+    "end": 168,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Georgia Transformer Corporation",
+    "start": 170,
+    "end": 201,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nidec Industrial Automation India Private Limited",
+    "start": 203,
+    "end": 252,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "India) Limited",
+    "start": 281,
+    "end": 295,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Virginia Transformer Corporation",
+    "start": 301,
+    "end": 333,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 319
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Cindus Corporation",
+    "start": 55,
+    "end": 73,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 347
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Elantas Beck India Limited",
+    "start": 75,
+    "end": 101,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 347
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Hindalco Industries Limited",
+    "start": 103,
+    "end": 130,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 347
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Savli Copper Products Private Limited",
+    "start": 152,
+    "end": 189,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 347
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Vedanta Limited",
+    "start": 217,
+    "end": 232,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 347
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Business - Quality Control, Services",
+    "start": 93,
+    "end": 129,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 409
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Private Limited",
+    "start": 280,
+    "end": 313,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 428
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "start": 103,
+    "end": 143,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 440
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Private Limited",
+    "start": 149,
+    "end": 182,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 440
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 87,
+    "end": 106,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 441
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 99,
+    "end": 117,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 442
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 95,
+    "end": 113,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 443
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Co LLP",
+    "start": 178,
+    "end": 184,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 455
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar N. Bhandary",
+    "start": 73,
+    "end": 94,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 456
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 153,
+    "end": 174,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 456
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Narayna B. Shetty",
+    "start": 176,
+    "end": 193,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 456
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Jayaram N. Shetty",
+    "start": 198,
+    "end": 215,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 456
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 31,
+    "end": 52,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 487
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 54,
+    "end": 73,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 487
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 75,
+    "end": 93,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 487
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sandesh Bhagwat",
+    "start": 30,
+    "end": 45,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 488
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Amod Joshi",
+    "start": 52,
+    "end": 62,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 488
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 69,
+    "end": 86,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 488
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "located at Supa Ahilyanagar (formerly Ahmednagar), also in Maharashtra. Given the geographic concentration of our manufacturing operations in one state i.e. Maharashtra, our operations are susceptible to disruptions which may be caused by certain local and regional factors, including but not limited to political, economic and weather conditions, natural disasters, demographic factors, and other unforeseen events and circumstances. While there have not been any instances of risks materializing due to our geographical concentration in the three-month period ended June 30, 2025 and the Fiscals 2025, 2024 and 2023, if any such disruptions occurs due to reasons included herein, our operations may be affected leading to significant delays in the manufacturing and sale of our products which could materially and adversely affect our business, financial condition and results of operations.",
+    "start": 700,
+    "end": 1593,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 534
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Care Ratings Limited",
+    "start": 119,
+    "end": 139,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 582
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 62,
+    "end": 81,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 617
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 83,
+    "end": 102,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 617
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 104,
+    "end": 122,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 617
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Ajay Shriram Patil",
+    "start": 386,
+    "end": 404,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 633
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Motors Private Limited",
+    "start": 70,
+    "end": 101,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Project Management Services Private Limited",
+    "start": 108,
+    "end": 155,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park VI Private Limited",
+    "start": 202,
+    "end": 235,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Distriparks Private Limited",
+    "start": 241,
+    "end": 272,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Integrated Logistics Private Limited",
+    "start": 279,
+    "end": 319,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Electricals Private Limited",
+    "start": 345,
+    "end": 372,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park IV Private Limited",
+    "start": 899,
+    "end": 932,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 647
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bank Balances",
+    "start": 164,
+    "end": 177,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 657
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bank Balances and Advances",
+    "start": 185,
+    "end": 211,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 657
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Cloud Services Vendor’s",
+    "start": 1808,
+    "end": 1831,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 675
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 47,
+    "end": 68,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 685
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Hegde",
+    "start": 88,
+    "end": 100,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 685
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Company KSH International Limited",
+    "start": 25,
+    "end": 58,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 718
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Company KSH International Limited",
+    "start": 24,
+    "end": 57,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 723
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 741
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 45053237",
+    "start": 11,
+    "end": 27,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 744
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "Sarthak.malvadkar@kshinterantional.com",
+    "start": 8,
+    "end": 46,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 745
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Bidder’s DP ID",
+    "start": 320,
+    "end": 334,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 748
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 516,
+    "end": 527,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 748
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Bid Amount",
+    "start": 350,
+    "end": 360,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 749
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 753
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 40094400",
+    "start": 11,
+    "end": 26,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 756
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 34,
+    "end": 52,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 756
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 27,
+    "end": 56,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 757
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 761
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 35,
+    "end": 58,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 762
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 119,
+    "end": 151,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 762
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/Abhijit Diwan",
+    "start": 16,
+    "end": 44,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 763
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 775
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 7,
+    "end": 25,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 780
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "prakash.boricha@nuvama.com",
+    "start": 27,
+    "end": 53,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 780
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "sheetal.parab@nuvama.com",
+    "start": 59,
+    "end": 83,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 780
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 785
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 35,
+    "end": 58,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 786
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 27,
+    "end": 59,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 787
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/Abhijit Diwan",
+    "start": 16,
+    "end": 44,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 788
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ipo@trilegal.com",
+    "start": 7,
+    "end": 23,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 796
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 800
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 800
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 8,
+    "end": 45,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 802
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 27,
+    "end": 64,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 803
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 46,
+    "end": 66,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 804
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Offer Escrow Collection Bank HDFC Bank Limited",
+    "start": 15,
+    "end": 61,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 807
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 808
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752929",
+    "start": 11,
+    "end": 26,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 810
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752928",
+    "start": 28,
+    "end": 43,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 810
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752914",
+    "start": 48,
+    "end": 63,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 810
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 7,
+    "end": 36,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 811
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 38,
+    "end": 64,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 811
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 65,
+    "end": 88,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 811
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 90,
+    "end": 118,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 811
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 124,
+    "end": 149,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 811
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Eric Bacha/",
+    "start": 16,
+    "end": 27,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 812
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Jadhav/ Tushar Gavankar",
+    "start": 66,
+    "end": 89,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 812
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 0,
+    "end": 18,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 817
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "022-68052182",
+    "start": 91,
+    "end": 103,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 819
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "Ipocmg@icicibank.com",
+    "start": 111,
+    "end": 131,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 819
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 823
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 824
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752929",
+    "start": 11,
+    "end": 26,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 826
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752928",
+    "start": 28,
+    "end": 43,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 826
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752914",
+    "start": 48,
+    "end": 63,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 826
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 7,
+    "end": 36,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 827
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 38,
+    "end": 64,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 827
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 65,
+    "end": 88,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 827
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 90,
+    "end": 118,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 827
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 124,
+    "end": 149,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 827
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Eric Bacha/",
+    "start": 16,
+    "end": 27,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 828
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Jadhav/ Tushar Gavankar",
+    "start": 66,
+    "end": 89,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 828
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 0,
+    "end": 18,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 833
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "022-68052182",
+    "start": 91,
+    "end": 103,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 835
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "Ipocmg@icicibank.com",
+    "start": 111,
+    "end": 131,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 835
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 838
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 839
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752929",
+    "start": 11,
+    "end": 26,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 841
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752928",
+    "start": 28,
+    "end": 43,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 841
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 30752914",
+    "start": 48,
+    "end": 63,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 841
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 7,
+    "end": 36,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 842
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 38,
+    "end": 64,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 842
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 65,
+    "end": 88,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 842
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 90,
+    "end": 118,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 842
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 124,
+    "end": 149,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 842
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Eric Bacha/",
+    "start": 16,
+    "end": 27,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 843
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Jadhav/ Tushar Gavankar",
+    "start": 66,
+    "end": 89,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 843
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "a Registered Broker",
+    "start": 379,
+    "end": 398,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 849
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 50,
+    "end": 61,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 851
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Share Transfer Agents",
+    "start": 14,
+    "end": 35,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 856
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanj & Co. LLP",
+    "start": 70,
+    "end": 84,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 865
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "parag.pansare@kirtanepandit.com",
+    "start": 8,
+    "end": 39,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 873
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "hitesh.ramani@citi.com",
+    "start": 7,
+    "end": 29,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 890
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Export-Import Bank of India",
+    "start": 0,
+    "end": 27,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 894
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "pro@eximbankindia.in",
+    "start": 95,
+    "end": 115,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 898
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "IndusInd Bank Limited",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 902
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91-20-26234000",
+    "start": 11,
+    "end": 26,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 905
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "sharmila.joshi@indusind.com",
+    "start": 92,
+    "end": 119,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 905
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 0,
+    "end": 18,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 907
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Tanishq Showroom",
+    "start": 55,
+    "end": 71,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 908
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 8879770456",
+    "start": 11,
+    "end": 26,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "paragraph",
+      "index": 910
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "cherag.gyara@icicibank.com",
+    "start": 90,
+    "end": 116,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 910
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 912
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "manisha.shukla@hdfcbank.com",
+    "start": 7,
+    "end": 34,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 917
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "State Bank of India",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 919
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Tara Chambers",
+    "start": 0,
+    "end": 13,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 920
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "rm6.ifbpune@sbi.co.in",
+    "start": 7,
+    "end": 28,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 924
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "The Federal Bank Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "paragraph",
+      "index": 928
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kubera Chambers Opp",
+    "start": 39,
+    "end": 58,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 928
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sancheti Hospital Shivajinagar",
+    "start": 60,
+    "end": 90,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 928
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ashishmp@federalbank.co.in",
+    "start": 7,
+    "end": 33,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 932
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Bajaj Finance Limited",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "paragraph",
+      "index": 934
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "anand.soni@bajajfinserv.in",
+    "start": 92,
+    "end": 118,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "paragraph",
+      "index": 937
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Ratings Limited",
+    "start": 137,
+    "end": 157,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "paragraph",
+      "index": 945
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Listing SEBI Bhavan",
+    "start": 54,
+    "end": 73,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 955
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 231,
+    "end": 242,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 962
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Share Transfer Agents",
+    "start": 803,
+    "end": 824,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "paragraph",
+      "index": 962
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 8,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 9,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 10,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 11,
+      "column": 0
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 7,
+    "end": 38,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 7,
+    "end": 38,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 1,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Pandit LLP",
+    "start": 27,
+    "end": 37,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 12,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 45053237",
+    "start": 50,
+    "end": 66,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+ 91 20 45053237",
+    "start": 50,
+    "end": 66,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 1,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST FAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 0,
+      "row": 2,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 7,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 7,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/ Abhijit Diwan",
+    "start": 0,
+    "end": 29,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/ Abhijit Diwan",
+    "start": 0,
+    "end": 29,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/ Abhijit Diwan",
+    "start": 0,
+    "end": 29,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/ Abhijit Diwan",
+    "start": 0,
+    "end": 29,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 2
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 7,
+    "end": 25,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 7,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 7,
+    "end": 25,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 7,
+      "column": 8
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 7,
+    "end": 30,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 7,
+    "end": 30,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 8,
+      "column": 8
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 0
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 35,
+    "end": 72,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 3
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 35,
+    "end": 72,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 4
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 35,
+    "end": 72,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 5
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 35,
+    "end": 72,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 6
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 35,
+    "end": 72,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 35,
+    "end": 72,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 11,
+      "column": 8
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 95,
+    "end": 106,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 1,
+      "row": 4,
+      "column": 8
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL SUBBAYYA HEGDE",
+    "start": 15,
+    "end": 36,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PUSHPA KUSHAL HEGDE",
+    "start": 38,
+    "end": 57,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Appasaheb Marathe Marg,",
+    "start": 46,
+    "end": 69,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Appasaheb Marathe Marg,",
+    "start": 46,
+    "end": 69,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Appasaheb Marathe Marg,",
+    "start": 46,
+    "end": 69,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Appasaheb Marathe Marg,",
+    "start": 46,
+    "end": 69,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 59,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 86,
+    "end": 98,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH INTERNATIONAL LIMITED",
+    "start": 97,
+    "end": 122,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "DHAULAGIRI FAMILY TRUST",
+    "start": 121,
+    "end": 144,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "EVEREST\nFAMILY TRUST",
+    "start": 146,
+    "end": 166,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 146,
+    "end": 169,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 2
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 146,
+    "end": 169,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 3
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 146,
+    "end": 169,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 4
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 146,
+    "end": 169,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 5
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 40094400",
+    "start": 163,
+    "end": 178,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 0
+    }
+  },
+  {
+    "type": "PHONE",
+    "text": "+91 22 40094400",
+    "start": 163,
+    "end": 178,
+    "source": "regex",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MAKALU FAMILY TRUST",
+    "start": 168,
+    "end": 187,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 187,
+    "end": 205,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 0
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 187,
+    "end": 205,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BROAD FAMILY TRUST",
+    "start": 189,
+    "end": 207,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 204,
+    "end": 241,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 6
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 204,
+    "end": 241,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ANNAPURNA FAMILY TRUST",
+    "start": 209,
+    "end": 231,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 229,
+    "end": 261,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 2
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 229,
+    "end": 261,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 3
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 229,
+    "end": 261,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 4
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 229,
+    "end": 261,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KANCHENJUNGA FAMILY TRUST",
+    "start": 233,
+    "end": 258,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 256,
+    "end": 285,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 0
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 256,
+    "end": 285,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/Abhijit Diwan",
+    "start": 278,
+    "end": 306,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/Abhijit Diwan",
+    "start": 278,
+    "end": 306,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/Abhijit Diwan",
+    "start": 278,
+    "end": 306,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi/Abhijit Diwan",
+    "start": 278,
+    "end": 306,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 5
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 299,
+    "end": 336,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 6
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 299,
+    "end": 336,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 353,
+    "end": 373,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 353,
+    "end": 373,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 14,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "RAJESH KUSHAL HEGDE",
+    "start": 853,
+    "end": 872,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 7
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 2
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 5
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 6
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "KUSHAL HEGDE",
+    "start": 969,
+    "end": 981,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 2,
+      "row": 1,
+      "column": 7
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH International Limited",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 3,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "registered office at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+    "start": 107,
+    "end": 224,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 3,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sandesh Bhagwat",
+    "start": 50,
+    "end": 65,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 4,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Amod Joshi",
+    "start": 50,
+    "end": 60,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 4,
+      "row": 9,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kirtane & Pandit LLP",
+    "start": 53,
+    "end": 73,
+    "source": "spacy_ner+validation",
+    "confidence": 0.97,
+    "location": {
+      "type": "table_cell",
+      "index": 4,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 58,
+    "end": 79,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 4,
+      "row": 7,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 67,
+    "end": 84,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 4,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 22,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 25,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 26,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 27,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "corporate office of our company located at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",
+    "start": 4,
+    "end": 146,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "registered office of our Company located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India",
+    "start": 4,
+    "end": 142,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 29,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Waterloo Motors Private Limited",
+    "start": 18,
+    "end": 49,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 22,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 23,
+    "end": 42,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 25,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 25,
+    "end": 45,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 26,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 44,
+    "end": 62,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 22,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 44,
+    "end": 63,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 44,
+    "end": 63,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 25,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 45,
+    "end": 64,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 17,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 47,
+    "end": 66,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 26,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 50,
+    "end": 68,
+    "source": "spacy_ner",
+    "confidence": 0.95,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 15,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Project Management Services Private Limited",
+    "start": 51,
+    "end": 98,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 65,
+    "end": 83,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 67,
+    "end": 90,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 22,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 68,
+    "end": 86,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 25,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 68,
+    "end": 86,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 26,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 70,
+    "end": 90,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 27,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 79,
+    "end": 101,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 28,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 88,
+    "end": 110,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 26,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 109,
+    "end": 132,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 116,
+    "end": 141,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 26,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park VI Private Limited",
+    "start": 134,
+    "end": 167,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 134,
+    "end": 154,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 156,
+    "end": 175,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Distriparks Private Limited",
+    "start": 169,
+    "end": 200,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad\nFamily Trust",
+    "start": 177,
+    "end": 195,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 197,
+    "end": 219,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Integrated Logistics Private Limited",
+    "start": 202,
+    "end": 242,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 221,
+    "end": 246,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 24,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Electricals Private Limited",
+    "start": 262,
+    "end": 289,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Waterloo Industrial Park IX",
+    "start": 699,
+    "end": 726,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Infra Park IV Private Limited",
+    "start": 750,
+    "end": 783,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 5,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Sangeeta Ramprasad Rai",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "located at Supa Ahilyanagar (formerly Ahmednagar) in Maharashtra",
+    "start": 27,
+    "end": 91,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "located at Plot No. J-25, Taloja Industrial Area, Village Padghe, Taluka Panvel, Raigad – 410 208, Maharashtra, India",
+    "start": 27,
+    "end": 144,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 11,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+    "start": 27,
+    "end": 134,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 12,
+      "column": 1
+    }
+  },
+  {
+    "type": "ADDRESS",
+    "text": "located at Plot No. 5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India",
+    "start": 27,
+    "end": 150,
+    "source": "address+context",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 13,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 69,
+    "end": 88,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 73,
+    "end": 98,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 6,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Acknowledgement Slip",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 7,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "the Escrow Collection Bank",
+    "start": 14,
+    "end": 40,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 8,
+      "row": 9,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "the Refund Bank",
+    "start": 42,
+    "end": 57,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 8,
+      "row": 9,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 199,
+    "end": 210,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 8,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Schedule XIII",
+    "start": 38,
+    "end": 51,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 9,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 52,
+    "end": 84,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 9,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 89,
+    "end": 113,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 9,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 101,
+    "end": 112,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 9,
+      "row": 7,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Escrow Collection Bank",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 9,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 18,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "the Escrow Collection Bank",
+    "start": 21,
+    "end": 47,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 39,
+    "end": 50,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "CARE Ratings Limited",
+    "start": 84,
+    "end": 104,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 20,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 135,
+    "end": 146,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 182,
+    "end": 199,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 9,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "a Bid",
+    "start": 192,
+    "end": 197,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 10,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 0,
+    "end": 32,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 173,
+    "end": 191,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 14,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 218,
+    "end": 239,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "corrigenda thereto",
+    "start": 292,
+    "end": 310,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 13,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 329,
+    "end": 348,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 436,
+    "end": 455,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 546,
+    "end": 564,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 11,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Refund Bank",
+    "start": 0,
+    "end": 11,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 0,
+    "end": 33,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 7,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Individual Bidders",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 14,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 17,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Share Transfer Agents",
+    "start": 19,
+    "end": 40,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "the Refund Bank",
+    "start": 24,
+    "end": 39,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 35,
+    "end": 77,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 7,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "MUFG Intime India Private Limited",
+    "start": 81,
+    "end": 114,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 13,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Formerly Link Intime India Private Limited",
+    "start": 116,
+    "end": 158,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 13,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "QIB Bidders",
+    "start": 149,
+    "end": 160,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 153,
+    "end": 170,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 200,
+    "end": 232,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 20,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Securities Limited",
+    "start": 237,
+    "end": 261,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 20,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "corrigenda thereto",
+    "start": 314,
+    "end": 332,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "HDFC Bank Limited",
+    "start": 335,
+    "end": 352,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 16,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "ICICI Bank Limited",
+    "start": 357,
+    "end": 375,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 16,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "corrigenda thereto",
+    "start": 606,
+    "end": 624,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 12,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Wilful Defaulter",
+    "start": 0,
+    "end": 16,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 13,
+      "row": 12,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "UPI Bidders",
+    "start": 42,
+    "end": 53,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 13,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "the Bid Amount",
+    "start": 351,
+    "end": 365,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 13,
+      "row": 9,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "BSE Limited",
+    "start": 0,
+    "end": 11,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 14,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Central Depository Services",
+    "start": 0,
+    "end": 27,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 14,
+      "row": 11,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "India) Limited",
+    "start": 29,
+    "end": 43,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 14,
+      "row": 11,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "DP/ Depository Participant",
+    "start": 0,
+    "end": 26,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 15,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "National Payments Corporation",
+    "start": 0,
+    "end": 29,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 15,
+      "row": 40,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "NRO Account",
+    "start": 0,
+    "end": 11,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 15,
+      "row": 43,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "National Securities Depository Limited",
+    "start": 0,
+    "end": 38,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 15,
+      "row": 44,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Reserve Bank of India",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 16,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Reserve Bank of India",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 16,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Circuit Kilometers",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 17,
+      "row": 16,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Gram Jyoti",
+    "start": 21,
+    "end": 31,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 17,
+      "row": 19,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Mega Volt-Amperes",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 31,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Photo Voltaic",
+    "start": 0,
+    "end": 13,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 45,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Precision Wires India Limited",
+    "start": 0,
+    "end": 29,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 46,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Reserve Bank of India",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 48,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Solar Energy Corporation",
+    "start": 0,
+    "end": 24,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 57,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kisan Urja Suraksha",
+    "start": 15,
+    "end": 34,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 44,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Air Conditioning",
+    "start": 26,
+    "end": 42,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 18,
+      "row": 16,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "B.  Non-GAAP Measures",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "B.  Non-GAAP Measures",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PAT CAGR",
+    "start": 0,
+    "end": 8,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 13,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PAT CAGR",
+    "start": 0,
+    "end": 8,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 13,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "PAT Margin",
+    "start": 0,
+    "end": 10,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 14,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "C.  Operational",
+    "start": 0,
+    "end": 15,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 19,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "C.  Operational",
+    "start": 0,
+    "end": 15,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 19,
+      "row": 19,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 8,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 9,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 10,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 11,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 12,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 13,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 6,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Hegde",
+    "start": 9,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 23,
+      "row": 16,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh\tKushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 4,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 7,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 0,
+    "end": 20,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 8,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 0,
+    "end": 19,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 9,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 10,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 11,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 12,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Malabar India Fund Limited",
+    "start": 0,
+    "end": 26,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 19,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rupal K. Sancheti",
+    "start": 0,
+    "end": 17,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 20,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Salil Ajay Bhargava",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 21,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Ajay Menon",
+    "start": 0,
+    "end": 10,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 23,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 6,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 7,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Ajay Menon",
+    "start": 7,
+    "end": 17,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 22,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Hegde",
+    "start": 9,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 25,
+      "row": 15,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Electricals",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 31,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "KSH Distriparks Private Limited",
+    "start": 0,
+    "end": 31,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 31,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Parijat Foundation",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 31,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 32,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 6,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 7,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 8,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 9,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 10,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 6,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 33,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 6,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 7,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 8,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 9,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 10,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 11,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 6,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 35,
+      "row": 4,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde*^&",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 4,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 8,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 0,
+    "end": 20,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 9,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 0,
+    "end": 19,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 10,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust&",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 11,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 0,
+    "end": 22,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 12,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 0,
+    "end": 25,
+    "source": "company_suffix",
+    "confidence": 0.94,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 13,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Hegde",
+    "start": 9,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 36,
+      "row": 15,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Dhaulagiri Family Trust",
+    "start": 0,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Makalu Family Trust",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Everest Family Trust",
+    "start": 0,
+    "end": 20,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Kanchenjunga Family Trust",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 4,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Annapurna Family Trust",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Broad Family Trust",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 6,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 37,
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 3,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 4,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde HUF",
+    "start": 34,
+    "end": 53,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 6,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 34,
+    "end": 53,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 7,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 8,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Hegde",
+    "start": 34,
+    "end": 45,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 9,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 34,
+    "end": 53,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 10,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 11,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Hegde",
+    "start": 34,
+    "end": 45,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 12,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 34,
+    "end": 46,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 13,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Hegde",
+    "start": 37,
+    "end": 49,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 16,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Vijay Hegde",
+    "start": 49,
+    "end": 60,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 12,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde",
+    "start": 50,
+    "end": 65,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 4,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Vijay Hegde",
+    "start": 50,
+    "end": 61,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 11,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Hegde",
+    "start": 50,
+    "end": 62,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 13,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde HUF",
+    "start": 51,
+    "end": 70,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 9,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Hegde",
+    "start": 51,
+    "end": 63,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 16,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Shubhkamal Leasing and Investment Private Limited",
+    "start": 52,
+    "end": 101,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 8,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde",
+    "start": 59,
+    "end": 74,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 6,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Shubhkamal Leasing and Investment Private Limited",
+    "start": 59,
+    "end": 108,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 10,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Gopal BO",
+    "start": 66,
+    "end": 74,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Hegde",
+    "start": 67,
+    "end": 78,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 13,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Hegde",
+    "start": 68,
+    "end": 79,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 53,
+      "row": 16,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Tax Deducted",
+    "start": 0,
+    "end": 12,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 58,
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Services Tax&",
+    "start": 10,
+    "end": 23,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 59,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Long Term Bank Facilities",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Short Term Bank Facilities",
+    "start": 0,
+    "end": 26,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 3,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Long Term Bank Facilities",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 4,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Short Term Bank Facilities",
+    "start": 0,
+    "end": 26,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 6,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Short Term Bank Facilities",
+    "start": 0,
+    "end": 26,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 7,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Long Term Bank Facilities",
+    "start": 0,
+    "end": 25,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 8,
+      "column": 3
+    }
+  },
+  {
+    "type": "COMPANY",
+    "text": "Short Term Bank Facilities",
+    "start": 0,
+    "end": 26,
+    "source": "spacy_ner+validation",
+    "confidence": 0.92,
+    "location": {
+      "type": "table_cell",
+      "index": 62,
+      "row": 11,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 69,
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 69,
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 69,
+      "row": 3,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 69,
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 0,
+    "end": 21,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 0,
+    "end": 19,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpakamal Apartment,",
+    "start": 0,
+    "end": 22,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 3,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Ajay Shriram Patil",
+    "start": 0,
+    "end": 18,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 6,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Indu Jacob",
+    "start": 0,
+    "end": 10,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 8,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Buena Monte",
+    "start": 3,
+    "end": 14,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 2,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Kumar Tiwari",
+    "start": 4,
+    "end": 16,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 7,
+      "column": 0
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Model Colony",
+    "start": 72,
+    "end": 84,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 5,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Shivaji Nagar",
+    "start": 75,
+    "end": 88,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 3,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Deccan Gymkhana",
+    "start": 90,
+    "end": 105,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 3,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Deccan Gymkhana",
+    "start": 111,
+    "end": 126,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "type": "PERSON",
+    "text": "Deccan Gymkhana",
+    "start": 123,
+    "end": 138,
+    "source": "spacy_ner",
+    "confidence": 0.82,
+    "location": {
+      "type": "table_cell",
+      "index": 70,
+      "row": 4,
+      "column": 3
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "hingnetare@gmail.com",
+    "start": 108,
+    "end": 128,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 73,
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "type": "EMAIL",
+    "text": "parag.pansare@kirtanepandit.com",
+    "start": 164,
+    "end": 195,
+    "source": "regex",
+    "confidence": 0.99,
+    "location": {
+      "type": "table_cell",
+      "index": 73,
+      "row": 1,
+      "column": 0
+    }
+  }
+]

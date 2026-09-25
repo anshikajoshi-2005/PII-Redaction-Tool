@@ -1,0 +1,1290 @@
+PII DETECTION REVIEW
+================================================================================
+
+ADDRESS: 14 candidates
+--------------------------------------------------------------------------------
+Unique values: 14
+
+1. Registered Office: 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India;
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 26}
+
+2. Corporate Office: 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India;
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 27}
+
+3. Registered Office at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India and its Corporate Office at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India.
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 48}
+
+4. located at Supa Ahilyanagar (formerly Ahmednagar), also in Maharashtra. Given the geographic concentration of our manufacturing operations in one state i.e. Maharashtra, our operations are susceptible to disruptions which may be caused by certain local and regional factors, including but not limited to political, economic and weather conditions, natural disasters, demographic factors, and other unforeseen events and circumstances. While there have not been any instances of risks materializing due to our geographical concentration in the three-month period ended June 30, 2025 and the Fiscals 2025, 2024 and 2023, if any such disruptions occurs due to reasons included herein, our operations may be affected leading to significant delays in the manufacturing and sale of our products which could materially and adversely affect our business, financial condition and results of operations.
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 534}
+
+5. registered office at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 3, 'row': 1, 'column': 1}
+
+6. corporate office of our company located at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 1, 'column': 1}
+
+7. registered office of our Company located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 29, 'column': 1}
+
+8. located at Supa Ahilyanagar (formerly Ahmednagar) in Maharashtra
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 6, 'row': 10, 'column': 1}
+
+9. located at Plot No. J-25, Taloja Industrial Area, Village Padghe, Taluka Panvel, Raigad – 410 208, Maharashtra, India
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 6, 'row': 11, 'column': 1}
+
+10. located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 6, 'row': 12, 'column': 1}
+
+11. located at Plot No. 5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India
+   Source     : address+context
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 6, 'row': 13, 'column': 1}
+
+12. irtane & Pandit, LLP, Chartered Accountants
+5th Floor, Gopal House
+Opposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038
+Maharashtra, India
+E-mail: parag.pansare@kirtanepandit.com
+Telephone: + 91 20 6729 5100
+Firm registration number: 105215
+   Source     : address+context+pin
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 73, 'row': 1, 'column': 0}
+
+13. andit, LLP, Chartered Accountants
+5th Floor, Gopal House
+Opposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038
+Maharashtra, India
+E-mail: parag.pansare@kirtanepandit.com
+Telephone: + 91 20 6729 5100
+Firm registration number: 105215W/ W100057
+   Source     : address+context+pin
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 73, 'row': 1, 'column': 0}
+
+14. Hingne Tare & Associates Flat No. 102, Sai Complex Shaniwar Peth, Pune – 411 030 Maharashtra, India
+E-mail: hingnetare@gmail.com
+Firm registration number: 116417
+   Source     : address+context+pin
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 73, 'row': 2, 'column': 0}
+
+
+
+COMPANY: 875 candidates
+--------------------------------------------------------------------------------
+Unique values: 206
+
+1. KSH INTERNATIONAL LIMITED
+   Source     : spacy_ner+context
+   Confidence : 0.97
+   Location   : {'type': 'paragraph', 'index': 11}
+
+2. Anchor Investors
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 16}
+
+3. Bhandary Metal Extrusion Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.97
+   Location   : {'type': 'paragraph', 'index': 24}
+
+4. KSH International Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.97
+   Location   : {'type': 'paragraph', 'index': 24}
+
+5. Registrar of Companies Maharashtra
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 24}
+
+6. Registrar of Companies
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 24}
+
+7. Tower 2
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 27}
+
+8. Montreal Business Centre
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 27}
+
+9. Registered Office
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 48}
+
+10. Village Birdewadi
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 48}
+
+11. Corporate Office
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 48}
+
+12. the Indian Accounting Standards
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 104}
+
+13. Ind AS
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 106}
+
+14. CARE Analytics and
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 114}
+
+15. The CARE Report
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 114}
+
+16. CareEdge Research
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 114}
+
+17. the Promoter Selling Shareholders
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 114}
+
+18. Key Managerial Personnel
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 114}
+
+19. Group Companies
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 114}
+
+20. Advisory Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 114}
+
+21. the Stock Exchanges for the Offer
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 153}
+
+22. Promoter Selling Shareholders
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 153}
+
+23. Offered Shares
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 153}
+
+24. the Offered Shares
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 153}
+
+25. Dhaulagiri Family Trust
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 166}
+
+26. Everest Family Trust
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 166}
+
+27. Makalu Family Trust
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 166}
+
+28. Broad Family Trust
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 166}
+
+29. Annapurna Family Trust
+   Source     : spacy_ner+context
+   Confidence : 0.97
+   Location   : {'type': 'paragraph', 'index': 166}
+
+30. Kanchenjunga Family Trust
+   Source     : spacy_ner+context
+   Confidence : 0.97
+   Location   : {'type': 'paragraph', 'index': 166}
+
+31. Waterloo Industrial Park VI Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 166}
+
+32. the Offer Price
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 180}
+
+33. Promoter Group
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 182}
+
+34. the Promoter Selling Shareholder
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 186}
+
+35. Equity Share
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 192}
+
+36. the Promoter Selling
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 199}
+
+37. Restated Financial Statements of Assets and
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 209}
+
+38. the Company / Net Worth
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 213}
+
+39. Split of Equity Shares
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 213}
+
+40. the Board and Shareholders
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 261}
+
+41. Kirtane & Pandit LLP
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 262}
+
+42. Pandit LLP
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 262}
+
+43. Equity Shares
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 271}
+
+44. the Promoter Group
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 278}
+
+45. Capital Structure
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 293}
+
+46. Restated Financial Statements
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 304}
+
+47. Emirates Transformer & Switchgear Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 319}
+
+48. Georgia Transformer Corporation
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 319}
+
+49. Virginia Transformer Corporation
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 319}
+
+50. Bharat Bijlee Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 319}
+
+51. Industrial Solutions Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 319}
+
+52. Switchgear Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 319}
+
+53. Nidec Industrial Automation India Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 319}
+
+54. India) Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 319}
+
+55. Cindus Corporation
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 347}
+
+56. Beck India Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 347}
+
+57. Hindalco Industries Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 347}
+
+58. Savli Copper Products Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 347}
+
+59. Vedanta Limited Sterlite Copper
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 347}
+
+60. Elantas Beck India Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 347}
+
+61. Vedanta Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 347}
+
+62. the Net Proceeds
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 391}
+
+63. Supa Facility
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 401}
+
+64. Business - Quality Control, Services
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 409}
+
+65. Callings and Employment Act
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 428}
+
+66. the Pune Metropolitan Region Development Authority
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 428}
+
+67. the Ministry of Corporate Affairs
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 436}
+
+68. the Practicing Company
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 455}
+
+69. Co LLP
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 455}
+
+70. Plot No. F-223
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 526}
+
+71. & Goods and Services Tax
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 556}
+
+72. Care Ratings Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 582}
+
+73. Rakhi Girija Shetty
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 617}
+
+74. the Equity Shares
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 632}
+
+75. inter alia
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 633}
+
+76. India Scheme
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 637}
+
+77. Waterloo Motors Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 647}
+
+78. KSH Project Management Services Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 647}
+
+79. KSH Distriparks Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 647}
+
+80. KSH Integrated Logistics Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 647}
+
+81. Electricals Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 647}
+
+82. Park IV Private Limited
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 647}
+
+83. KSH Infra Park VI Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+84. Waterloo Industrial Park I Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+85. Waterloo Industrial Park II Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+86. Waterloo Industrial Park III Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+87. Waterloo Industrial Park IV Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+88. Waterloo Industrial Park V Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+89. Waterloo Industrial Park VIII Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+90. Waterloo Industrial Park IX Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+91. Waterloo Industrial Park IX B Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+92. Waterloo Industrial Park IX A Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+93. KSH Infra Park IV Private Limited
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 647}
+
+94. Bank Balances
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 657}
+
+95. Bank Balances and Advances
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 657}
+
+96. Board of Directors
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 668}
+
+97. Cloud Services Vendor’s
+   Source     : spacy_ner+context
+   Confidence : 0.92
+   Location   : {'type': 'paragraph', 'index': 675}
+
+98. Cloud Services
+   Source     : company_suffix
+   Confidence : 0.88
+   Location   : {'type': 'paragraph', 'index': 675}
+
+99. the Offer for Sale
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 688}
+
+100. Promoter Selling
+   Source     : spacy_ner+context
+   Confidence : 0.86
+   Location   : {'type': 'paragraph', 'index': 689}
+
+... 106 more unique values not displayed.
+
+
+EMAIL: 70 candidates
+--------------------------------------------------------------------------------
+Unique values: 26
+
+1. cs.connect@kshinternational.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 29}
+
+2. Sarthak.malvadkar@kshinterantional.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 745}
+
+3. ksh.ipo@nuvama.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 756}
+
+4. customerservice.mb@nuvama.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 757}
+
+5. ksh@icicisecurities.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 762}
+
+6. customercare@icicisecurities.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 762}
+
+7. prakash.boricha@nuvama.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 780}
+
+8. sheetal.parab@nuvama.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 780}
+
+9. ipo@trilegal.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 796}
+
+10. kshinternational.ipo@in.mpms.mufg.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 802}
+
+11. siddharth.jadhav@hdfcbank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 811}
+
+12. sachin.gawade@hdfcbank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 811}
+
+13. eric.bacha@hdfcbank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 811}
+
+14. tushar.gavankar@hdfcbank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 811}
+
+15. pravin.teli2@hdfcbank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 811}
+
+16. Ipocmg@icicibank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 819}
+
+17. parag.pansare@kirtanepandit.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 873}
+
+18. hitesh.ramani@citi.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 890}
+
+19. pro@eximbankindia.in
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 898}
+
+20. sharmila.joshi@indusind.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 905}
+
+21. cherag.gyara@icicibank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 910}
+
+22. manisha.shukla@hdfcbank.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 917}
+
+23. rm6.ifbpune@sbi.co.in
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 924}
+
+24. ashishmp@federalbank.co.in
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 932}
+
+25. anand.soni@bajajfinserv.in
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'paragraph', 'index': 937}
+
+26. hingnetare@gmail.com
+   Source     : regex
+   Confidence : 0.99
+   Location   : {'type': 'table_cell', 'index': 73, 'row': 2, 'column': 0}
+
+
+
+PERSON: 781 candidates
+--------------------------------------------------------------------------------
+Unique values: 159
+
+1. Chakan Taluka - Khed
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 26}
+
+2. Baner
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 27}
+
+3. Sarthak Malvadkar
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 28}
+
+4. Offer
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 47}
+
+5. Directors
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 114}
+
+6. Promoters
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 114}
+
+7. Reference Rate
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 133}
+
+8. Kushal Subbayya Hegde
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 166}
+
+9. Pushpa Kushal Hegde
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 166}
+
+10. Rajesh Kushal Hegde
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 166}
+
+11. Rohit Kushal Hegde
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 166}
+
+12. Waterloo Industrial Park VI Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 166}
+
+13. Selling Shareholder
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 173}
+
+14. pre-Offer
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 182}
+
+15. Sandesh Bhagwat
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 226}
+
+16. Amod Joshi
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 226}
+
+17. Key Managerial Personnel
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 248}
+
+18. Promoter
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 253}
+
+19. Pursuant
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 261}
+
+20. Secondary Transfer of
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 287}
+
+21. Bijlee Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 319}
+
+22. Nidec Industrial Automation India Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 319}
+
+23. Excludes
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 381}
+
+24. Supa Facility
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 391}
+
+25. Karunakar N. Bhandary
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 456}
+
+26. Narayna B. Shetty
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 456}
+
+27. Jayaram N. Shetty
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 456}
+
+28. Taluka Parner
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 526}
+
+29. Alpha
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 526}
+
+30. ISO 9001:2015
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 544}
+
+31. ISO 14001:2015
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 544}
+
+32. ISO 45001:2018
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 544}
+
+33. Ajay Shriram Patil
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 633}
+
+34. Waterloo Industrial Park
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 647}
+
+35. Waterloo Industrial
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 647}
+
+36. Waterloo Industrial Park III Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 647}
+
+37. Waterloo Industrial Park IV Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 647}
+
+38. Waterloo Industrial Park V Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 647}
+
+39. Pushpa Hegde
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 685}
+
+40. Mutual Funds
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 707}
+
+41. Taluka-Khed
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 719}
+
+42. Taluka Khed
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 742}
+
+43. Registrar
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 747}
+
+44. Bidder’s DP ID
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 748}
+
+45. UPI Bidders
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 748}
+
+46. Bid
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 748}
+
+47. Bid Amount
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 749}
+
+48. Bandra Kurla Complex
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 754}
+
+49. Bandra East
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 755}
+
+50. Email
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 756}
+
+51. ksh.ipo@nuvama.com Website
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 756}
+
+52. Kishan Rastogi/Abhijit Diwan
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 763}
+
+53. Bandra East Mumbai
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 777}
+
+54. ksh.ipo@nuvama.com
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 780}
+
+55. Bapat Marg
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 794}
+
+56. C-101
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 800}
+
+57. Vikhroli
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 801}
+
+58. Shanti Gopalkrishnan
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 804}
+
+59. Kanjurmarg
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 809}
+
+60. Eric Bacha/
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 812}
+
+61. Jadhav/ Tushar Gavankar
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 812}
+
+62. Marg Backbay Reclamation Churchgate
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 819}
+
+63. a Registered Broker
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 849}
+
+64. Share Transfer Agents
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 856}
+
+65. Floor
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 885}
+
+66. Sharmila Joshi Website
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 905}
+
+67. Tanishq Showroom
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 908}
+
+68. Cherag Gyara Website
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 910}
+
+69. Tara Chambers
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 920}
+
+70. Kubera Chambers Opp
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 928}
+
+71. Sancheti Hospital Shivajinagar
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 928}
+
+72. Soni Website
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 937}
+
+73. Listing SEBI Bhavan
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 955}
+
+74. Bandra
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 956}
+
+75. BRLM
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 971}
+
+76. Exchange(s
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'paragraph', 'index': 979}
+
+77. Taluka - Khed Pune
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 0, 'row': 1, 'column': 0}
+
+78. Baner Pune
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 0, 'row': 1, 'column': 1}
+
+79. Sarthak Malvadkar Company
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 0, 'row': 1, 'column': 2}
+
+80. KUSHAL HEGDE
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 0, 'row': 2, 'column': 0}
+
+81. Cap Price
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 0, 'row': 14, 'column': 0}
+
+82. RISKS
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 0, 'row': 15, 'column': 0}
+
+83. Kishan Rastogi/ Abhijit Diwan
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 1, 'row': 8, 'column': 3}
+
+84. WIDELY CIRCULATED MARATHI DAILY NEWSPAPER
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 2, 'row': 1, 'column': 0}
+
+85. Floor Price
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 2, 'row': 5, 'column': 0}
+
+86. ksh.ipo@nuvama.com
+Website
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 2, 'row': 14, 'column': 0}
+
+87. Appasaheb Marathe Marg,
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 2, 'row': 14, 'column': 2}
+
+88. Parents Branch
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 8, 'column': 1}
+
+89. Rajesh Branch
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 8, 'column': 1}
+
+90. Sangeeta Branch
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 8, 'column': 1}
+
+91. Waterloo Industrial Park II Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 10, 'column': 1}
+
+92. Waterloo Industrial Park VIII Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 10, 'column': 1}
+
+93. Waterloo Industrial Park IX Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 10, 'column': 1}
+
+94. Waterloo Industrial Park IX B Private Limited
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 10, 'column': 1}
+
+95. Waterloo Industrial Park IX
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 10, 'column': 1}
+
+96. KMP/ Key Managerial Personnel
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 16, 'column': 0}
+
+97. Promoter Trusts
+   Source     : spacy_ner
+   Confidence : 0.95
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 26, 'column': 0}
+
+98. Chakan Taluka-Khed
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 5, 'row': 29, 'column': 1}
+
+99. Sangeeta Ramprasad Rai
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 6, 'row': 5, 'column': 1}
+
+100. Village Khalumbre
+   Source     : spacy_ner
+   Confidence : 0.82
+   Location   : {'type': 'table_cell', 'index': 6, 'row': 13, 'column': 1}
+
+... 59 more unique values not displayed.
+
+
+PHONE: 19 candidates
+--------------------------------------------------------------------------------
+Unique values: 8
+
+1. + 91 20 45053237
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 744}
+
+2. +91 22 40094400
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 756}
+
+3. +91 22 30752929
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 810}
+
+4. +91 22 30752928
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 810}
+
+5. +91 22 30752914
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 810}
+
+6. 022-68052182
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 819}
+
+7. +91-20-26234000
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 905}
+
+8. + 91 8879770456
+   Source     : regex
+   Confidence : 0.95
+   Location   : {'type': 'paragraph', 'index': 910}
+
+
+
